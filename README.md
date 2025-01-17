@@ -1,2 +1,2 @@
 # Titanic-Classifier
-Bharat Intern-Task 1 Titanic Classifier
+Titanic Classifier for Survival Prediction using Logistic Regression.
